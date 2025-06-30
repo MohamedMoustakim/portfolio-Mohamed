@@ -48,21 +48,6 @@ const Portfolio = () => {
                     </div>
                 </motion.div>
 
-                {/* <motion.div
-                    whileHover={{ scale: 1.05 }}
-                    transition={{ duration: 0.4 }}
-                    className="relative group bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl overflow-hidden shadow-xl w-[320px]"
-                >
-                    <div className="relative w-full h-48 overflow-hidden">
-                        <img src={images.imag2} alt="Weather App" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
-                        <div className="absolute inset-0 bg-red-600/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                    </div>
-                    <div className="p-5">
-                        <h3 className="text-xl font-semibold mb-2">Weather App</h3>
-                        <p className="text-sm text-gray-300 mb-3">Check the weather anywhere in real-time.</p>
-                        <a href="#" className="text-red-400 hover:underline text-sm">🔗 View Project</a>
-                    </div>
-                </motion.div> */}
             </div>
         </section>
     );
