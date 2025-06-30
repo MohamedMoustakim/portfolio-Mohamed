@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="bg-gray-100 text-gray-600 py-7 ">
             <div className="max-w-7xl mx-auto px-4 text-center">
                 <p className="text-sm sm:text-base">
-                    © 2015 – 2025 <span className="font-semibold text-blue-600">Mohamed Moustakim</span>, tous droits réservés.
+                    © 2015 – 2025 <span className="font-semibold text-red-700">Mohamed Moustakim</span>, tous droits réservés.
                 </p>
             </div>
         </footer>
